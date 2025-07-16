@@ -1,5 +1,6 @@
 ## Hi, I'm Leah 👋👩🏻‍💻
-I'm a software developer & content creator.
+I'm a software developer & content creator.<br>
+Visit my website: [https://midoricha.github.io/leah-portfolio/](https://midoricha.github.io/leah-portfolio/)
 <!--
 **midoricha/midoricha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
